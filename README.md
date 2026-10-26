@@ -2,7 +2,7 @@
 A menu-driven Python Parking Management System for vehicle entry, exit, slot allocation, automatic fee calculation and revenue reports.
 A menu-driven Python application that automates the working of a parking lot: vehicle entry, slot allocation, exit processing, automatic fee calculation and revenue reporting.
 
-Mini Project and Case Study for Python Programming, BCA (Section 24BCA1/B), Chandigarh University.
+Mini Project for Python Programming, BCA (Section 24BCA1/B), Chandigarh University.
 
 Problem Statement
 
